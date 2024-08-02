@@ -1,4 +1,4 @@
-module github.com/Layr-Labs/eigenda
+module github.com/emilianobonassi/eigenda
 
 go 1.21
 
